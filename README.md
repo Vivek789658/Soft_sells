@@ -173,22 +173,8 @@ The application is fully responsive with breakpoints:
 
 ## 🚀 Deployment
 
-### Netlify Deployment
 
-1. Install Netlify CLI:
-   ```bash
-   npm install -g netlify-cli
-   ```
-
-2. Build the project:
-   ```bash
-   npm run build
-   ```
-
-3. Deploy to Netlify:
-   ```bash
-   netlify deploy --prod
-   ```
+`
 
 ### Vercel Deployment
 
@@ -274,7 +260,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@softsell.example.com or open an issue in the GitHub repository.
+For support, email kumarv11535@gmail.com or open an issue in the GitHub repository.
 
 ### Common Issues
 
