@@ -89,12 +89,7 @@ project/
 
 ### Environment Variables
 
-Create a `.env` file in the root directory:
 
-```env
-VITE_API_URL=your_api_url_here
-VITE_OPENAI_API_KEY=your_openai_api_key_here
-```
 
 ### Tailwind Configuration
 
